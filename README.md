@@ -29,8 +29,14 @@
 
 <h3 align="center">Github Stats</h3>
 <br>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-miranda&" alt="nikhil-miranda" /></p>
 
+<a href="https://github.com/nikhil-miranda?tab=repositories">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-miranda&show_icons=true&&line_height=25&count_private=true" alt="nikhil-miranda" />
+</a>
+<a href="https://github.com/nikhil-miranda">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nikhil-miranda&show_icons=true&theme=light&line_height=25&title_color=7221ff&count_private=true"
+</a>
+  
 <hr>
 <h4 align="center">Get in touch with me</h4>
 <p align="center"> <a href="https://linkedin.com/in/nikhilmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmiranda" height="20" width="20" /></a>
