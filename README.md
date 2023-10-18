@@ -32,7 +32,7 @@
 <br>
 
 <a href="https://github.com/nikhil-miranda?tab=repositories">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-miranda&show_icons=true&&line_height=25&count_private=true" alt="nikhil-miranda" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-miranda&show_icons=true&line_height=25&count_private=true" alt="nikhil-miranda" />
 </a>
 <a href="https://github.com/nikhil-miranda">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nikhil-miranda&show_icons=true&theme=light&line_height=25&title_color=7221ff&count_private=true"
