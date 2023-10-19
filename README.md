@@ -8,18 +8,16 @@
 <hr>
 
 - 🖥️ Checkout my Portfolio: [https://nikhilmiranda.com](https://nikhilmiranda.com)
-  
 - 💼 I’m currently working as a **Senior Software Engineer** at **Netcore Unbxd**.
-
 - 👯 I’m eager to contribute to **Open Source Projects**.
-
 - 💬 Ask me about **PIM, SaaS Product Development Lifecycle, and CI-CD**.
-
 - 📬 Reach out to me at **nikhil.miranda@gmail.com**
-
 - 📄 Know about my experiences [Download CV](https://student.nikhilmiranda.com/media/nikhil_resume_v6.3.pdf).
+- 🔥 Interesing fact about me **I want to find a way to extend the average human lifespan.**
 
-- 🔥 Fun fact **I want to find a way to extend the human lifespan.**
+<!-- <h2 align="center">Tech stack I have worked with.</h2> -->
+
+
 
 <hr>
 
@@ -44,18 +42,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nikhil-miranda">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=f12dd9273457056c0e19f56121363a4c&show_owner=true" width="400" />
-  </a>
-  <a href="https://github.com/nikhil-miranda">
+  <a href="https://gist.github.com/nikhil-miranda/c93e4608f386e55754128c86b107f0ed">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=c93e4608f386e55754128c86b107f0ed&show_owner=true" width="400" />
+  </a>
+  <a href="https://gist.github.com/nikhil-miranda/f12dd9273457056c0e19f56121363a4c">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=f12dd9273457056c0e19f56121363a4c&show_owner=true" width="400" />
   </a>
 </p>
 
-<hr>
-
 <h4 align="center">Get in touch with me</h4>
-<p align="center"> <a href="https://linkedin.com/in/nikhilmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmiranda" height="20" width="20" /></a>
+<p align="center"> <a href="https://linkedin.com/in/nikhilmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmiranda" height="20" width="40" /></a>
 <a href="https://instagram.com/nikhil_miranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_miranda" height="20" width="40" /></a>
 <a href="https://medium.com/@nikhilmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhilmiranda" height="20" width="40" /></a>
 <a href="https://www.youtube.com/c/@nikhilmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilmiranda" height="20" width="40" /></a>
