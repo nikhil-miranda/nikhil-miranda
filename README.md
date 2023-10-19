@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Miranda</h1>
 <p align="center">A fervent engineer and aficionado.</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nikhil-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-miranda" /> </p>
+<p align="center" href="https://github.com/nikhil-miranda"> <img src="https://komarev.com/ghpvc/?username=nikhil-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-miranda" /> </p>
 
 
-<p align="center" href="https://instagram.com/nikhil_miranda" target="blank"><img  src="https://github-profile-trophy.vercel.app/?username=nikhil-miranda&row=1&column=8" alt="nikhil-miranda"/></p>
+<p align="center" href="https://github.com/nikhil-miranda" target="blank"> <img  src="https://github-profile-trophy.vercel.app/?username=nikhil-miranda&row=1&column=8" alt="nikhil-miranda"/></p>
 
 <hr>
 
