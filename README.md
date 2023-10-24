@@ -145,6 +145,9 @@
 </p>
 
 <p align="center">
+  <a href="https://gist.github.com/nikhil-miranda/907738de40157250714ee892083eeb77">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=907738de40157250714ee892083eeb77&show_owner=true" width="400" />
+  </a>
   <a href="https://gist.github.com/nikhil-miranda/c93e4608f386e55754128c86b107f0ed">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=c93e4608f386e55754128c86b107f0ed&show_owner=true" width="400" />
   </a>
