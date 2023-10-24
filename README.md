@@ -16,7 +16,6 @@
 - 🌏 I come from **Bangalore - India.**
 - 🖥️ Checkout my Portfolio: **[https://nikhilmiranda.com](https://nikhilmiranda.com)**
 - 💼 I’m currently working as a **Senior Software Engineer** at **Unbxd by Netcore Cloud**.
-- 👯 I’m eager to contribute to **Open Source Projects**.
 - 💬 Ask me about **PIM, SaaS Product Development Lifecycle, and CI-CD**.
 - 📬 Reach out to me at **nikhil.miranda@gmail.com**
 - 📄 Know about my experiences **[Download CV](https://student.nikhilmiranda.com/media/nikhil_resume_v6.3.pdf).**
@@ -161,7 +160,7 @@
 <h3 align="center">Published Articles</h3>
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nikhilmiranda" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nikhilmiranda" alt="nikhil-miranda's medium posts"  />
 </div>
 
 ###
