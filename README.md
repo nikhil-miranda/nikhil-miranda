@@ -19,7 +19,7 @@
 - 💬 Ask me about **PIM, SaaS Product Development Lifecycle, and CI-CD**.
 - 📬 Reach out to me at **nikhil.miranda@gmail.com**
 - 📄 Know about my experiences **[Download CV](https://student.nikhilmiranda.com/media/nikhil_resume_v6.3.pdf).**
-- 🔥 Interesting fact about me **I want to find a way to extend the average human lifespan.**
+- 🔥 Interesting fact about me: **I want to find a way to extend the average human lifespan.**
 
 <!-- <h2 align="center">Tech stack I have worked with.</h2> -->
 
