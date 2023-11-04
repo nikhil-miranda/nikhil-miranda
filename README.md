@@ -162,7 +162,7 @@
 
 <h3 align="center">Published Articles</h3>
 
-<div align="center">
+<div href="https://medium.com/@nikhilmiranda" align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nikhilmiranda" alt="nikhil-miranda's medium posts"  />
 </div>
 
