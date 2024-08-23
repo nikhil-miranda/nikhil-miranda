@@ -2,7 +2,7 @@
   <img height="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 </div>
 
-<h1 align="center">Hi, I'm Nikhil Miranda. 👋,</h1>
+<h1 align="center">Hi, I'm Nikhil Miranda. 👋</h1>
 <p align="center">A fervent engineer and aficionado.</p>
 
 <p align="center" href="https://github.com/nikhil-miranda"> <img src="https://komarev.com/ghpvc/?username=nikhil-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-miranda" /> </p>
